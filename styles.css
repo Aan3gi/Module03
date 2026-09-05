@@ -25,7 +25,7 @@ aside {
     text-align: right;
     font-size: 11px;
     line-height: 1.2;
-    border-right: 12px solid #444;
+    border-right: 12px solid #5B2C83;
     padding-right: 8px;
     margin-top: -15px;
 }
@@ -66,9 +66,9 @@ p {
 
 /* Company information box */
 section {
-    border: 2px solid #008000;
-    border-left: 25px solid #008000;
-    background-color: #fffff0;
+    border: 2px solid #008C95;
+    border-left: 25px solid #008C95;
+    background-color: #E8F6F7;
     padding: 8px 12px;
     margin-top: 10px;
     line-height: 1.15;
